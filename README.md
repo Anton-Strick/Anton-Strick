@@ -1,5 +1,5 @@
 # Hello!
-Thanks for dropping by my Git page. My best work is consigned to the algorithmic-artisans org, which I created with friends to work on web applications powered by AWS, Babylon (the Type/JavaScript 3d Engine), and our ideas for what we look for in a tabletop board game companion. If you're interested, feel free to read through some of my strengths as a developer below.
+Thanks for dropping by my Git page.
 
 ## Known Languages
 - Java (JDK11/JDK17, mostly)
